@@ -1,4 +1,4 @@
-# Personal Finance Tracker
+# Simple Personal Finance Tracker
 
 A simple command-line application to track personal income and expenses, categorize transactions, and generate financial summaries.
 
