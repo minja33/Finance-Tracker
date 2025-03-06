@@ -1,0 +1,18 @@
+{
+  "transactions": [
+    {
+      "date": "2025-03-06 16:46:22",
+      "amount": 2000.0,
+      "category": "food",
+      "description": "monthly food expense",
+      "type": "income"
+    }
+  ],
+  "categories": [
+    "income",
+    "food",
+    "rent",
+    "entertainment",
+    "other"
+  ]
+}
